@@ -2,16 +2,15 @@
 <h3 align="center">⚠ Security Vulnerability Demonstration Plugin</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-INTENTIONALLY_INSECURE-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PURPOSE-SECURITY_RESEARCH-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MINECRAFT-PLUGIN-darkgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚠ WARNING
+## ⚠ Uyarı
 
 ```diff
-- This plugin is intentionally insecure.
-- Do NOT use in production.
-- Do NOT store real player data.
+- Bu Plugin Oyuncuların Sunucunuza Kayıt Olduğu Şifreyi Gösterir
+- Herhangi Bir Sorun Çıkarsa Sorumluluk Redi
+- Sadece Eğlence Amaçlıdır
+
