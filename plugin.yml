@@ -1,0 +1,13 @@
+name: ShudevLoginSystem
+main: shudev.shudevloginsystem.ShudevLoginSystem
+version: 1.0
+api-version: 1.21
+commands:
+  kaydol:
+    description: Hesap oluştur
+    usage: /kaydol <şifre> <şifre-tekrar>
+    aliases: [register]
+  gir:
+    description: Hesaba giriş yap
+    usage: /gir <şifre>
+    aliases: [giris, log, login]
