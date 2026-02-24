@@ -1,16 +1,37 @@
-<h1 align="center">🔥 ShudevLoginSystem 🔥</h1>
-<h3 align="center">⚠ Security Vulnerability Demonstration Plugin</h3>
+# ShudevLoginSystem 🔐
+### Login View System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MINECRAFT-PLUGIN-darkgreen?style=for-the-badge" />
-</p>
+Bu proje, Minecraft sunucularında kullanılan login sistemlerinin **nasıl güvensiz tasarlanabileceğini göstermek** amacıyla geliştirilmiş bir  eklentidir
+
+⚠️ **UYARI:**  
+- Bu eklenti bilinçli olarak güvensizdir.  
+- Gerçek sunucularda veya gerçek oyuncu verileri ile kullanılmamalıdır.  
+- Sadece test ve eğitim amaçlıdır.  
 
 ---
 
-## ⚠ Uyarı
+## Projenin Amacı
 
-```diff
-- Bu Plugin Oyuncuların Sunucunuza Kayıt Olduğu Şifreyi Gösterir
-- Herhangi Bir Sorun Çıkarsa Sorumluluk Redi
-- Sadece Eğlence Amaçlıdır
+- Güvensiz kimlik doğrulama sistemlerini anlamak  
+- Hash ve salt kullanımının önemini göstermek  
+- Güvenli sistemler geliştirme bilinci oluşturmak 
 
+---
+
+## Kurulum (Test Ortamı İçin)
+
+1. `.jar` dosyasını `plugins` klasörüne atın  
+2. Sunucuyu yeniden başlatın  
+3. Sadece izole test ortamında deneyin 
+
+
+---
+
+## Geliştirici Notu
+
+> Güvenliği öğrenmenin yolu, önce güvensizliği anlamaktan geçer.  
+
+---
+
+📫 İletişim: **shudens0@gmail.com**  
+💬 Discord: **shudens0**
